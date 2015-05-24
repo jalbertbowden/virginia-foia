@@ -11,7 +11,11 @@ Requesting Records - Virginia Department of Social Services
 http://www.dss.virginia.gov/geninfo/foia.html
 
 Rights and Responsibilities - Virginia FOIA - VEC
-http://www.vec.virginia.gov/pdf/vfoia.pdf
+http://www.vec.virginia.gov/pdf/vfoia.pdf  
+  
+Localities  
+York County Freedom of Information Requests  
+https://www.yorkcounty.gov/CountyGovernment/Administration,County/PublicInformationOffice/FreedomofInformationRequests.aspx
 
 
 Federal/National FOIA
