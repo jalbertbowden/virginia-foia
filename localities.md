@@ -2,7 +2,7 @@
 
 Virginia Localities FOIA Implementations, Contacts, URLs, and more.  
 
-## [City of Chesapeake, Virginia](http://www.cityofchesapeake.net/Home.htm)  
+## [City of Chesapeake](http://www.cityofchesapeake.net/Home.htm)  
 [Virginia Freedom of Information Act (FOIA)](http://www.cityofchesapeake.net/government/city-departments/departments/city-manager/foia.htm)  
 [Chesapeake FOIA Email Contact](FOIA@cityofchesapeake.net)  
 
