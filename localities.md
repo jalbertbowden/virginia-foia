@@ -11,6 +11,12 @@ Virginia Localities FOIA Implementations, Contacts, URLs, and more.
 [Virginia Freedom of Information Act (FOIA)](http://www.cityofchesapeake.net/government/city-departments/departments/city-manager/foia.htm)  
 [Chesapeake FOIA Email Contact](FOIA@cityofchesapeake.net)  
 
+# [Town of Christiansburg](http://www.christiansburg.org/)  
+[Requesting Public Records (FOIA)](http://www.christiansburg.org/492/Public-Records-FOIA)  
+[Police Freedom of Information Requests](http://www.christiansburg.org/460/Freedom-of-Information-Requests)  
+To request records from the Town of Christiansburg, you may direct your request to [PR Director Melissa Demmitt](mdemmitt@christiansburg.org).  
+If you are requesting records specific to the Christiansburg Police Department, you may direct your request to [Major - Deputy Chief Chris Ramsey](dramsey@christiansburg.org).  
+
 ## [City of Colonial Heights](http://www.colonialheightsva.gov/)   
 [FOIA Rights & Responsibilities](http://www.colonialheightsva.gov/678/FOIA-Rights-Responsibilities)   
 [Email Contact](tomlinj@colonialheightsva.gov)  
