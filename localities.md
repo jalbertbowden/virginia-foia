@@ -2,6 +2,11 @@
 
 Virginia Localities FOIA Implementations, Contacts, URLs, and more.  
 
+## [Town of Blacksburg](http://www.blacksburg.gov/home)  
+[Freedom of Information Act (FOIA) | Blacksburg, VA](http://www.blacksburg.gov/departments/departments-l-z/town-attorney/freedom-of-information-act-foia)  
+[FOIA Email Contact](foia@blacksburg.gov)  
+
+
 ## [City of Chesapeake](http://www.cityofchesapeake.net/Home.htm)  
 [Virginia Freedom of Information Act (FOIA)](http://www.cityofchesapeake.net/government/city-departments/departments/city-manager/foia.htm)  
 [Chesapeake FOIA Email Contact](FOIA@cityofchesapeake.net)  
