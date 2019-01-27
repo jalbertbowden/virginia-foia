@@ -41,3 +41,20 @@ Contact the following:
 [Captain Kelly Walker](mailto:walkerkl@ci.waynesboro.va.us)  
 ### Records Kept by the Commonwealth’s Attorney’s Office  
 [Mr. David Ledbetter](mailto:LedbetterDL@ci.waynesboro.va.us)  
+
+## [York County](https://www.yorkcounty.gov/)  
+
+[York County Public Information Officer/FOIA Officer](https://www.yorkcounty.gov/directory.aspx?eid=49)  
+[Freedom of Information Requests](https://www.yorkcounty.gov/328/Freedom-of-Information-Requests)  
+[FOIA](https://www.yorkcounty.gov/directory.aspx?did=111)  
+[Email FOIA Requests](mailto:foia@yorkcounty.gov)  
+[Rights & Responsibilities of York County](https://www.yorkcounty.gov/DocumentCenter/View/4032/FOIA?bidId=)  
+[Rights & Responsibilities: The Rights of Requesters and the Responsibilities of York County, Virginia under the Virginia Freedom of Information Act](https://www.yorkcounty.gov/DocumentCenter/View/356/Freedom-of-Information-Act-Information-PDF?bidId=)  
+[Rights & Responsibilities: The Rights of Requesters and the Responsibilities of the York County Commissioner of the Revenue under the Virginia Freedom of Information Act](https://www.yorkcounty.gov/DocumentCenter/View/656/Freedom-of-Information-Act-Requests-PDF?bidId=)  
+[Rights & Responsibilities: The Rights of Requesters and the Responsibilities of the York County Treasurer’s Office under the Virginia Freedom of Information Act](https://www.yorkcounty.gov/DocumentCenter/View/358/York-County-Treasurer-Freedom-of-Information-Act-Policy-PDF?bidId=)  
+[Rights & Responsibilities: The Rights of Requesters and the Responsibilities of the York Poquoson Department of Social Services (“Department”) under the Virginia Freedom of Information Act](https://www.yorkcounty.gov/DocumentCenter/View/302/Freedom-of-Information-Act-Requests-PDF?bidId=)  
+[Rights & Responsibilities: The Rights of Requesters and the Responsibilities of the York County Treasurer’s Office under the Virginia Freedom of Information Act](https://www.yorkcounty.gov/DocumentCenter/View/358/York-County-Treasurer-Freedom-of-Information-Act-Policy-PDF?bidId=)  
+[Rights & Responsibilities: The Rights of Requesters and the Responsibilities of York County, Virginia under the Virginia Freedom of Information Act](https://www.yorkcounty.gov/DocumentCenter/View/357/Freedom-of-Information-Act-Rights-and-Responsibilities-PDF)  
+[The Rights of Requesters and the Responsibilities of York-Poquoson Sheriff’s Office Under the Virginia Freedom of Information Act](https://www.yorkcounty.gov/DocumentCenter/View/1480/Sheriffs-Office-Freedom-of-Information-Act-PDF?bidId=)  
+
+
