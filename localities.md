@@ -30,3 +30,14 @@ In addition, please contact these offices directly: Commonwealth's Attorney, Tre
 ## [Town of Purcellville](https://www.purcellvilleva.gov/78/Request-Public-Records)  
 [Virginia's Freedom of Information Act](https://www.purcellvilleva.gov/78/Request-Public-Records)  
 [FOIA Contact Email](dhays@purcellvilleva.gov)  
+
+## [Waynesboro - Request for Records](https://www.waynesboro.va.us/336/Request-for-Records)  
+Contact the following:  
+### Records Kept by the City of Waynesboro, VA  
+[Julia Bortle, Clerk of the Council](mailto:BortleJE@ci.waynesboro.va.us)  
+### Records of the Circuit Court and Records of the Clerk of Circuit Court  
+[Nicole A. Briggs, Clerk of Court](mailto:briggsna@ci.waynesboro.va.us)  
+### Records Kept by the Police Department  
+[Captain Kelly Walker](mailto:walkerkl@ci.waynesboro.va.us)  
+### Records Kept by the Commonwealth’s Attorney’s Office  
+[Mr. David Ledbetter](mailto:LedbetterDL@ci.waynesboro.va.us)  
