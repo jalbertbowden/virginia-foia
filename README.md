@@ -1,73 +1,51 @@
-# virginia-foia
+# Virginia FOIA - Freedom of Information Act Toolkit Repository  
+
 Virginia FOIA - Data and records related to FOIA and the commonwealth of Virginia.  
 Data mostly from:
 http://foiacouncil.dls.virginia.gov/foiacouncil.htm1
- 
- 
 http://www.nfoic.org/virginia-foi-resources
 
+## Virginia State Agencies  
 
-Requesting Records - Virginia Department of Social Services
-http://www.dss.virginia.gov/geninfo/foia.html
+### [DSS - Requesting Records - Virginia Department of Social Services](http://www.dss.virginia.gov/geninfo/foia.html)  
+### [VEC - Rights and Responsibilities - Virginia FOIA - VEC](http://www.vec.virginia.gov/pdf/vfoia.pdf)  
 
-Rights and Responsibilities - Virginia FOIA - VEC
-http://www.vec.virginia.gov/pdf/vfoia.pdf  
-  
-Localities  
-York County Freedom of Information Requests  
-https://www.yorkcounty.gov/CountyGovernment/Administration,County/PublicInformationOffice/FreedomofInformationRequests.aspx
+## [Virginia Localities](localities.md)  
 
+## Federal/National FOIA
 
-Federal/National FOIA
-
-
-Freedom of Information Act (FOIA) and Privacy Act - National Science Foundation (NSF)
+### Freedom of Information Act (FOIA) and Privacy Act - National Science Foundation (NSF)
 http://www.nsf.gov/policies/foia.jsp
  
+### FOIA
 http://www.foia.gov/
 
-
-
-DOT
+### DOT
 http://www.dot.gov/foia
 
-
-Justice
+### Justice
 http://www.justice.gov/sites/default/files/oip/legacy/2014/07/23/amended-foia-redlined-2010.pdf
 http://www.justice.gov/sites/default/files/oip/pages/attachments/2015/05/01/fy_2014_annual_report_summary.pdf
-
-
-
 https://ogis.archives.gov/Assets/special-access-and-foia-report-08-april-2015.pdf
 
-SEC
+### SEC
 http://www.sec.gov/foia.shtml
-Department of Defense
+### Department of Defense
 http://www.dodea.edu/foia.cfm
 
-
-
-Blogs
+## Blogs
 http://thefoiablog.typepad.com/the_foia_blog/
 http://blogs.archives.gov/foiablog/
 
-Groups/Community
+## Groups/Community
 http://foiaproject.org/
 
 
 
 
-Feeds
-
-
+## Feeds
 http://www.bespacific.com/feed/
-
 http://www.digitalgov.gov/feed/
-
 http://www.fiercegovernment.com/feed
-
-
 http://thefoiablog.typepad.com/the_foia_blog/atom.xml
-
-
 http://feeds.feedburner.com/FoiaOmbudsman
